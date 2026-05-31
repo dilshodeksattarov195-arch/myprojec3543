@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "usercync",
+        "uuid": 7351725,
+        "checksum": "nl2x3d"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
